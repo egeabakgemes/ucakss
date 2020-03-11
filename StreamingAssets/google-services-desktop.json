@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808533066040",
+    "firebase_url": "https://ucakssspro-f01bb.firebaseio.com",
+    "project_id": "ucakssspro-f01bb",
+    "storage_bucket": "ucakssspro-f01bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808533066040:android:93ab49193c47a993dd81cd",
+        "android_client_info": {
+          "package_name": "com.Company.ucakdg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808533066040-gstv0cncuejhl9r2s3jbrger5r2ef9ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAOLfO8ejd_q0hV2OUNRCg_XoQ86XmYV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808533066040-gstv0cncuejhl9r2s3jbrger5r2ef9ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
